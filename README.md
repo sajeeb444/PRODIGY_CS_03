@@ -9,11 +9,11 @@ Usage
    
 Strength Levels
 
-..>Weak: Passwords that do not meet minimum complexity requirements.
+->Weak: Passwords that do not meet minimum complexity requirements.
 
-..>Moderate: Passwords with a combination of uppercase or lowercase letters, digits, and special characters but may not meet all requirements for a strong password.
+->Moderate: Passwords with a combination of uppercase or lowercase letters, digits, and special characters but may not meet all requirements for a strong password.
 
-..>Strong: Passwords that meet all complexity requirements, including a minimum length, presence of uppercase and lowercase letters, digits, and special characters.
+->Strong: Passwords that meet all complexity requirements, including a minimum length, presence of uppercase and lowercase letters, digits, and special characters.
 
 How it Works
 
